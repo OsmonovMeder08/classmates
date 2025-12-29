@@ -2,7 +2,7 @@
   "name": "classmates",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/OsmonovMeder08.io/classmates",
+  "homepage": "https://osmonovmeder08.github.io/classmates",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
