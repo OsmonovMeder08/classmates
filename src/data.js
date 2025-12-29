@@ -1,0 +1,128 @@
+export const classmates = [
+  {
+    id: 1,
+    name: "Osmonov Meder",
+    avatar: "/images/meder.jpg",
+    info: "Full Stack Developer.",
+  },
+  {
+    id: 2,
+    name: "Akylbekov Kanbolot",
+    avatar: "/images/kanbolot.jpg",
+    info: "Душа компании.",
+  },
+  {
+    id: 3,
+    name: "Toktogulov Joodar",
+    avatar: "/images/joodar.jpg",
+    info: "Спортсмен и шутник.",
+  },
+  {
+    id: 4,
+    name: "Kasymbekov Bekzat",
+    avatar: "https://via.placeholder.com/150/0088cc/ffffff?text=IP",
+    info: "Любит математику и смеяться.",
+  },
+  {
+    id: 5,
+    name: "Tologonov Ilgiz",
+    avatar: "https://via.placeholder.com/150/ff6b6b/ffffff?text=AS",
+    info: "Душа компании.",
+  },
+  {
+    id: 6,
+    name: "Suiutbekov Jumakadyr",
+    avatar: "/images/jumakadyr.jpg",
+    info: "Спортсмен и шутник.",
+  },
+  {
+    id: 7,
+    name: "Seksenbaev Nurdoolot",
+    avatar: "https://via.placeholder.com/150/0088cc/ffffff?text=IP",
+    info: "Любит математику и смеяться.",
+  },
+  {
+    id: 8,
+    name: "Meimankulov Abdullah",
+    avatar: "https://via.placeholder.com/150/ff6b6b/ffffff?text=AS",
+    info: "Душа компании.",
+  },
+  {
+    id: 9,
+    name: "Imankulov Azimbek",
+    avatar: "https://via.placeholder.com/150/51cf66/ffffff?text=MK",
+    info: "Спортсмен и шутник.",
+  },
+  {
+    id: 10,
+    name: "Daniyar",
+    avatar: "/images/daniyar.jpg",
+    info: "Любит математику и смеяться.",
+  },
+  {
+    id: 11,
+    name: "Iskcak",
+    avatar: "https://via.placeholder.com/150/ff6b6b/ffffff?text=AS",
+    info: "Душа компании.",
+  },
+  {
+    id: 12,
+    name: "Osconbaev Argen",
+    avatar: "https://via.placeholder.com/150/51cf66/ffffff?text=MK",
+    info: "Спортсмен и шутник.",
+  },
+  {
+    id: 13,
+    name: " Joldoshbekov Temirlan",
+    avatar: "/images/temirlan.jpg",
+    info: "Любит математику и смеяться.",
+  },
+  {
+    id: 14,
+    name: "Moldobaev Bekbol",
+    avatar: "/images/bekbol.jpg",
+    info: "Душа компании.",
+  },
+  {
+    id: 15,
+    name: "Jumadyl",
+    avatar: "https://via.placeholder.com/150/51cf66/ffffff?text=MK",
+    info: "Спортсмен и шутник.",
+  },
+    {
+    id: 16,
+    name: "Begaly",
+    avatar: "/images/begaly.jpg",
+    info: "Душа компании.",
+  },
+  {
+    id: 17,
+    name: "Narbekov Yimankazy",
+    avatar: "/images/yimankazy.jpg",
+    info: "Спортсмен и шутник.",
+  },
+    {
+    id: 18,
+    name: "Kurmanbekov Ernis",
+    avatar: "/images/ernis.jpg",
+    info: "Душа компании.",
+  },
+  {
+    id: 19,
+    name: "Abdukarimov Arsen",
+    avatar: "/images/arsen.jpg",
+    info: "Спортсмен и шутник.",
+  },
+    {
+    id: 20,
+    name: "Samagan",
+    avatar: "/images/samagan.jpg",
+    info: "The future imam.",
+  },
+  {
+    id: 21,
+    name: " ",
+    avatar: "https://via.placeholder.com/150/51cf66/ffffff?text=MK",
+    info: "Спортсмен и шутник.",
+  }
+];
